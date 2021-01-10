@@ -34,4 +34,4 @@ https://youtu.be/ex6dHhbF-gU
 # 作成者
 上田先生　嶋田雅
 # ライセンス
-BSD 3-Clause License
+https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver/blob/main/COPYING
