@@ -35,5 +35,3 @@ https://youtu.be/ex6dHhbF-gU
 上田先生　嶋田雅
 # ライセンス
 BSD 3-Clause License
-
-
