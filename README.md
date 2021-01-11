@@ -10,7 +10,6 @@ Raspberry Pi4
 # インストール手順
 
 ```
-
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/miyabi-shimada/roboshisukadai2.git
 $ cd ~/catkin_ws
@@ -20,14 +19,12 @@ $ source ~/.bashrc
 端末2$ cd catkin_ws/src
 端末3$ cd catkin_ws
 端末4$ cd catkin_ws/src
-
 ```
 
 の順番でインストールしていく
 # 動作方法
 
 ```
-
 1. 端末を4つ用意する
 2. 端末1にroscoreと入力
 3. 端末2にchmod +x count.py
@@ -36,7 +33,6 @@ $ source ~/.bashrc
 　その後、rostopic echo /count _up
 5. 端末4にchmod +x twice.py
  rosrun mypkg twice.pyを入力
-
 ```
 
 # 協力者
