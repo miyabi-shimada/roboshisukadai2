@@ -9,10 +9,10 @@ Raspberry Pi4
 上田先生の授業内でのプログラムをもとに作成し、自身で設定した文字が出力されるように改良した
 # インストール手順
 $ cd ~/catkin_ws/src
-$git clone https://github.com/miyabi-shimada/roboshisukadai2.git
-$cd ~/catkin_ws
-$catkin_make
-$source ~/.bashrc
+$ git clone https://github.com/miyabi-shimada/roboshisukadai2.git
+$ cd ~/catkin_ws
+$ catkin_make
+$ source ~/.bashrc
 端末1$ cd catkin_ws/src
 端末2$ cd catkin_ws/src
 端末3$ cd catkin_ws
