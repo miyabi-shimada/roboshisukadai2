@@ -19,13 +19,13 @@ $source ~/.bashrc
 端末4$ cd catkin_ws/src
 の順番でインストールしていく
 # 動作方法
-1端末を4つ用意する
-2端末1にroscoreと入力
-3端末2にchmod +x count.py
+1. 端末を4つ用意する
+2. 端末1にroscoreと入力
+3. 端末2にchmod +x count.py
  rosrun mypkg count.py
-4端末3にrostopic listを入力し、countが入っているか確認
+4. 端末3にrostopic listを入力し、countが入っているか確認
 　その後、rostopic echo /count _up
-5端末4にchmod +x twice.py
+5. 端末4にchmod +x twice.py
  rosrun mypkg twice.pyを入力
 # 協力者
 加藤舞子、西廣巧
